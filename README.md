@@ -3,4 +3,4 @@
 Hi, welcome to my cookbook!
 
 - Lasanha 
-- strogonoff
+- pavê
